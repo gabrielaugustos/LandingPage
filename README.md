@@ -1,3 +1,6 @@
+![image](https://github.com/gabrielaugustos/LandingPage/assets/101292040/22e61935-c04e-4ffa-82b3-7de8643a06c4)
+
+
 Primeiramente iremos construir todo o nosso HTML, posteriormente implementaremos o CSS.
 
 - HTML
